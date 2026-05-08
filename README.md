@@ -22,7 +22,7 @@ Welcome to my comprehensive portfolio documenting the completion of the **Machin
 ## Course 1 : Supervised Machine Learning: Regression and Classification
 ## Week 1
 
-Practice quiz: Regression
+**Practice quiz**: Regression
 Practice quiz: Supervised vs unsupervised learning
 Practice quiz: Train the model with gradient descent
 Optional Labs
