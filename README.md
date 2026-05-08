@@ -20,7 +20,7 @@ Welcome to my comprehensive portfolio documenting the completion of the **Machin
 
 ## 📚 Course Structure & Portfolio Contents
 ## Course 1 : Supervised Machine Learning: Regression and Classification
-Week 1
+## Week 1
 
 Practice quiz: Regression
 Practice quiz: Supervised vs unsupervised learning
