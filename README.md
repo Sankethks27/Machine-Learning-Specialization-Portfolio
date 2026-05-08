@@ -10,7 +10,7 @@
 
 ## 🎯 Overview
 
-Welcome to my comprehensive portfolio documenting the completion of the **Machine Learning Specialization**! This repository showcases hands-on projects, labs, and assignments covering the complete machine learning workflow from data collection to predictive modeling and interactive visualization.
+Welcome to my comprehensive portfolio documenting the completion of the **Machine Learning Specialization**! This repository showcases hands-on projects, labs, and assignments covering the complete machine learning workflow and Certificates Earned From Online Learning Course on Coursera from DeepLearning.AI | Stanford.
 
 ## 🏆 Certificate Details
 
