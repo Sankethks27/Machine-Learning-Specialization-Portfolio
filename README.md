@@ -15,5 +15,5 @@ Welcome to my comprehensive portfolio documenting the completion of the **Machin
 ## 🏆 Certificate Details
 
 - **Certificate**: Machine Learning Specialization
-- **Issued By**: DeepLearning.AI | Standford via Coursera
+- **Issued By**: DeepLearning.AI | Stanford via Coursera
 - **Duration**: 3 comprehensive courses
