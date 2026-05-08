@@ -23,11 +23,17 @@ Welcome to my comprehensive portfolio documenting the completion of the **Machin
 ## Week 1
 
 **Practice quiz**: Regression
+
 Practice quiz: Supervised vs unsupervised learning
+
 Practice quiz: Train the model with gradient descent
+
 Optional Labs
+
 Model Representation
+
 Cost Function
+
 Gradient Descent
 
 Week 2
