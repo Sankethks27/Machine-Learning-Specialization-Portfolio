@@ -1,7 +1,7 @@
 #  🤖 Machine Learning Specialization Portfolio
 
 <p align="center">
-  <img src="https://github.com/Sankethks27/IBM-Data-Science-Portfolio/blob/main/IBM%20Data%20Science%20Professional%20Certificate/IBM%20Data%20Science%20Professional%20Certificate.jpg" width="650">
+  <img src="https://github.com/Sankethks27/Machine-Learning-Specialization-Portfolio/blob/main/Machine%20Learning%20Specialization%20Certificate/Machine%20Learning%20Specialization%20Certificate.jpg" width="650">
 </p>
 
 <p align="center">
