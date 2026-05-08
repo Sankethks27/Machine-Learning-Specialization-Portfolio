@@ -19,6 +19,8 @@ Welcome to my comprehensive portfolio documenting the completion of the **Machin
 - **Duration**: 3 comprehensive courses
 
 ## 📚 Course Structure & Portfolio Contents
-Course 1 : Supervised Machine Learning: Regression and Classification
-Course 2 : Advanced Learning Algorithms
-Course 3 : Unsupervised Learning, Recommenders, Reinforcement Learning
+**Course 1**: Supervised Machine Learning: Regression and Classification
+
+**Course 2**: Advanced Learning Algorithms
+
+**Course 3**: Unsupervised Learning, Recommenders, Reinforcement Learning
