@@ -24,3 +24,20 @@ Welcome to my comprehensive portfolio documenting the completion of the **Machin
 **Course 2**: Advanced Learning Algorithms
 
 **Course 3**: Unsupervised Learning, Recommenders, Reinforcement Learning
+
+## 🤝🏿 **Contributing**
+
+This portfolio represents my personal learning journey through the Machine Learning Specialization. While this is primarily a showcase of my work, I welcome discussions, feedback, and collaborations on machine learning projects.
+
+## 📧 **Contact**
+
+**Sanketh Ks**  
+- GitHub: [@Sankethks27](https://github.com/Sankethks27)
+- LinkedIn: [Sanketh Ks](https://www.linkedin.com/in/sanketh-ks-181962273/)
+- Email: sankethks27@gmail.com
+
+---
+
+⭐ **If you find this portfolio helpful or inspiring, please give it a star!** ⭐
+
+---
